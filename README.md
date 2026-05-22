@@ -39,8 +39,8 @@ SQLite database (user.db, table: reservations)
 ## Tech Stack
 
 - Node.js
-- Express ^4.21.2
-- SQLite3 ^5.1.7
+- Express 4.21.2
+- SQLite3 5.1.7
 - HTML / CSS / JavaScript (Vanilla, sourced from the Movenpick front-end)
 
 ---
