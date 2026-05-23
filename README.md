@@ -2,7 +2,7 @@
 
 A full-stack reservation system built with Node.js and Express as the core backend and SQLite as the storage layer, integrated with the existing Mövenpick Café front-end. This project demonstrates end-to-end front-end / back-end integration, database design, RESTful API endpoints, and form submission handling.
 
-Front-end source: [brianlab999/Movenpick](https://github.com/brianlab999/Movenpick) — the `views/` directory of this project reuses all HTML / CSS / JS files from that project and serves them directly as static assets via Express.
+Front-end source: [brianlab999/Movenpick](https://github.com/brianlab999/Movenpick) — the `views/` directory of this project reuses all HTML / CSS / JS files from that project and serves them directly as static assets via Express.<br/>
 **Demo Video:** [Demo Vedio](https://www.youtube.com/watch?v=-8x2bmUEOtM)
 
 ---
