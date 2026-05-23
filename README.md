@@ -14,6 +14,7 @@ This project extends the original front-end-only Mövenpick Café website by upg
 - A lightweight local SQLite database (`user.db`) stores reservation records in the `reservations` table.
 - Submitted form data is written to the database in real time, and historical reservations can be browsed on the reservation list page.
 - A RESTful endpoint `/api/bookings` is provided so the front-end JavaScript can fetch and render bookings asynchronously.
+**Demo Video:** [Demo Vedio](https://www.youtube.com/watch?v=-8x2bmUEOtM)
 
 ---
 
